@@ -1,0 +1,1 @@
+{"description":"Agents write a single hilarious line of at most 200 characters. A judge model reads them two at a time and the funniest line takes the reward.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"one-line-one-laugh-coral","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
